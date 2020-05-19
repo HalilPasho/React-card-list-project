@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HalilPasho/React-card-list-project/static/css/main.bd6f2b70.chunk.css",
-    "main.js": "/HalilPasho/React-card-list-project/static/js/main.c1c37293.chunk.js",
-    "main.js.map": "/HalilPasho/React-card-list-project/static/js/main.c1c37293.chunk.js.map",
-    "runtime-main.js": "/HalilPasho/React-card-list-project/static/js/runtime-main.2746c1c8.js",
-    "runtime-main.js.map": "/HalilPasho/React-card-list-project/static/js/runtime-main.2746c1c8.js.map",
-    "static/js/2.32e090c8.chunk.js": "/HalilPasho/React-card-list-project/static/js/2.32e090c8.chunk.js",
-    "static/js/2.32e090c8.chunk.js.map": "/HalilPasho/React-card-list-project/static/js/2.32e090c8.chunk.js.map",
-    "index.html": "/HalilPasho/React-card-list-project/index.html",
-    "precache-manifest.9641d4c9f909fbf31e2b6dd09baf6ea6.js": "/HalilPasho/React-card-list-project/precache-manifest.9641d4c9f909fbf31e2b6dd09baf6ea6.js",
-    "service-worker.js": "/HalilPasho/React-card-list-project/service-worker.js",
-    "static/css/main.bd6f2b70.chunk.css.map": "/HalilPasho/React-card-list-project/static/css/main.bd6f2b70.chunk.css.map",
-    "static/js/2.32e090c8.chunk.js.LICENSE.txt": "/HalilPasho/React-card-list-project/static/js/2.32e090c8.chunk.js.LICENSE.txt",
-    "static/media/greece.jpg": "/HalilPasho/React-card-list-project/static/media/greece.fed8d09b.jpg"
+    "main.css": "/React-card-list-project/static/css/main.bd6f2b70.chunk.css",
+    "main.js": "/React-card-list-project/static/js/main.6e893661.chunk.js",
+    "main.js.map": "/React-card-list-project/static/js/main.6e893661.chunk.js.map",
+    "runtime-main.js": "/React-card-list-project/static/js/runtime-main.1287f23b.js",
+    "runtime-main.js.map": "/React-card-list-project/static/js/runtime-main.1287f23b.js.map",
+    "static/js/2.32e090c8.chunk.js": "/React-card-list-project/static/js/2.32e090c8.chunk.js",
+    "static/js/2.32e090c8.chunk.js.map": "/React-card-list-project/static/js/2.32e090c8.chunk.js.map",
+    "index.html": "/React-card-list-project/index.html",
+    "precache-manifest.c42636a7b85d379dc2808848fc280bb4.js": "/React-card-list-project/precache-manifest.c42636a7b85d379dc2808848fc280bb4.js",
+    "service-worker.js": "/React-card-list-project/service-worker.js",
+    "static/css/main.bd6f2b70.chunk.css.map": "/React-card-list-project/static/css/main.bd6f2b70.chunk.css.map",
+    "static/js/2.32e090c8.chunk.js.LICENSE.txt": "/React-card-list-project/static/js/2.32e090c8.chunk.js.LICENSE.txt",
+    "static/media/greece.jpg": "/React-card-list-project/static/media/greece.fed8d09b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2746c1c8.js",
+    "static/js/runtime-main.1287f23b.js",
     "static/js/2.32e090c8.chunk.js",
     "static/css/main.bd6f2b70.chunk.css",
-    "static/js/main.c1c37293.chunk.js"
+    "static/js/main.6e893661.chunk.js"
   ]
 }
