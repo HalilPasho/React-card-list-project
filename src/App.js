@@ -7,17 +7,17 @@ import Monsters from './components/monsters'
 
 function App() {
 
-   const RedirectTo = (pathname) => {
-    return () => (<Redirect to={{ pathname }} />);
-  }
+  //  const RedirectTo = (pathname) => {
+  //   return () => (<Redirect to={{ pathname }} />);
+  // }
 
 
     return (
       <div className="App">
         <Router>
         <Switch>
-            <Route exact path="/" component={RedirectTo('/blog')} />
-            <Route exact path="/blog" component={Monsters} />
+            {/* <Route exact path="/" component={RedirectTo('/blog')} /> */}
+            <Route exact path="/" component={Monsters} />
             <Route exact path="/blog/:id/detailed" component={CardListDetails} />
           </Switch>
         </Router>
