@@ -16,11 +16,11 @@ class Monsters extends React.Component {
     this.setState({ searchField: e.target.value });
   };
 
-  componentDidMount = async () => {
-    await Axios.get('https://jsonplaceholder.typicode.com/users')
+  componentDidMount() {
+    Axios.get('https://jsonplaceholder.typicode.com/users')
       .then((res) => this.setState({ monster: res.data }))
       .catch((err) => console.log(err));
-  };
+  }
   render() {
     const { monster, searchField } = this.state;
     const filteredMonsters = monster.filter((monster) =>
